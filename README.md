@@ -1,4 +1,7 @@
 # 七日杀 / 7DaysToDie：
+
+![License](https://img.shields.io/badge/License-BSD%203--Clause-green?style=flat-square)  ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
+
 #### ❌UI需重新适配，版本待更新（源代码暂时移除）：
 ##### ❌UI Pending Re-adaptation, Version Update Pending (Source Code Temporarily Removed):
 
