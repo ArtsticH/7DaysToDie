@@ -24,6 +24,6 @@ git clone https://gitee.com/ArtsticH/7DaysToDie.git
 ```
 # 7DaysToDie
 
-此仓库项目是7DaysToDie游戏的插件集合库，供7DaysToDie游戏玩家及所有爱好者使用；个人独立维护，与https://7daystodie.com/ 无关。（当然，也欢迎官方收录）
+此仓库项目是7DaysToDie游戏的插件集合库，供7DaysToDie游戏玩家及所有爱好者使用；个人独立维护，与[7daystodie.com](http://www.7daystodie.com/) 无关。（当然，也欢迎官方收录）
 
-This repository is a collection of plugins for the game 7DaysToDie, intended for use by players and enthusiasts. It is individually maintained and is not affiliated with www.rising-world.net. (Official inclusion is welcome, of course.) 
+This repository is a collection of plugins for the game 7DaysToDie, intended for use by players and enthusiasts. It is individually maintained and is not affiliated with [www.rising-world.net](http://www.7daystodie.com/). (Official inclusion is welcome, of course.) 
