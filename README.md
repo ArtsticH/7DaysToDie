@@ -1,11 +1,4 @@
-# 7DaysToDie
-
-此仓库项目是7DaysToDie游戏的插件集合库，供7DaysToDie游戏玩家及所有爱好者使用；个人独立维护，与https://7daystodie.com/ 无关。（当然，也欢迎官方收录）
-
-This repository is a collection of plugins for the game 7DaysToDie, intended for use by players and enthusiasts. It is individually maintained and is not affiliated with www.rising-world.net. (Official inclusion is welcome, of course.) 
-
-
-# 02 七日杀 / 7DaysToDie：
+# 七日杀 / 7DaysToDie：
 #### ❌UI需重新适配，版本待更新（源代码暂时移除）：
 ##### ❌UI Pending Re-adaptation, Version Update Pending (Source Code Temporarily Removed):
 
@@ -26,3 +19,8 @@ If you have trouble accessing GitHub due to network restrictions, you can use th
 ```bash
 git clone https://gitee.com/ArtsticH/7DaysToDie.git
 ```
+# 7DaysToDie
+
+此仓库项目是7DaysToDie游戏的插件集合库，供7DaysToDie游戏玩家及所有爱好者使用；个人独立维护，与https://7daystodie.com/ 无关。（当然，也欢迎官方收录）
+
+This repository is a collection of plugins for the game 7DaysToDie, intended for use by players and enthusiasts. It is individually maintained and is not affiliated with www.rising-world.net. (Official inclusion is welcome, of course.) 
